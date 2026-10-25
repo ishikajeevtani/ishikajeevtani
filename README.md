@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:7c3aed&height=220&section=header&text=Ishika%20Jeevtani&fontColor=ffffff&fontSize=52&fontAlignY=38&animation=fadeIn&desc=CS%20student%20%C2%B7%20building%20with%20code%20%26%20AI&descColor=ddd6fe&descAlignY=60&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,40:302b63,70:6d28d9,100:a78bfa&height=230&section=header&text=Ishika%20Jeevtani&fontColor=ffffff&fontSize=54&fontAlignY=38&animation=twinkling&desc=CS%20STUDENT%20%C2%B7%20BUILDING%20WITH%20CODE%20%26%20AI&descColor=ede9fe&descAlignY=60&descSize=15" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2000&pause=700&color=A78BFA&center=true&vCenter=true&width=440&height=45&lines=Python;C%2B%2B;ML;DSA;and+a+lot+more...;B.Tech+CSE" alt="Python, C++, ML, DSA, and a lot more, B.Tech CSE"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2000&pause=700&color=A78BFA&center=true&vCenter=true&width=480&height=50&lines=PYTHON;C%2B%2B;ML;DSA;AND+A+LOT+MORE...;B.TECH+CSE" alt="PYTHON, C++, ML, DSA, AND A LOT MORE, B.TECH CSE"/>
 
 <br>
 
@@ -13,114 +13,52 @@
 
 <br>
 
-```bash
-ishika@github:~$ neofetch
-
-┌──────────────────────────────────────┐
-│ USER      Ishika Jeevtani            │
-│ STUDYING  B.Tech CSE, 2nd year, RJIT │
-│ BASE      Gwalior, India             │
-│ FOCUS     AI apps · Computer Vision  │
-│ STACK     Python · C++ · Java        │
-└──────────────────────────────────────┘
-```
-
-## The Path
-
-```mermaid
-flowchart LR
-    A([Foundations<br/>Python · C++ · DSA]) --> B([Machine<br/>Learning])
-    B --> C([Computer<br/>Vision])
-    C --> D([AI-integrated<br/>Apps])
-    style A fill:#7c3aed,color:#fff,stroke:none
-    style B fill:#6d28d9,color:#fff,stroke:none
-    style C fill:#5b21b6,color:#fff,stroke:none
-    style D fill:#4c1d95,color:#fff,stroke:none
-```
-
-## Loading...
-
-```text
-Python             ████████████░░░░░░░░  60%
-C++                ██████████░░░░░░░░░░  50%
-DSA                ████████░░░░░░░░░░░░  40%
-Machine Learning   ████░░░░░░░░░░░░░░░░  20%
-Computer Vision    ██░░░░░░░░░░░░░░░░░░  10%
-```
-
 ## Projects
 
-<details>
-<summary><b>🤝 VolunteerIQ</b></summary>
-<br>
-
-AI-powered volunteer coordination platform.
-
-`AI` `Web app`
-
-[Live demo ↗](https://volunteeriq.vercel.app) · [Code ↗](https://github.com/ishikajeevtani/volunteeriq)
-
-</details>
-
-<details>
-<summary><b>📁 FileForge</b></summary>
-<br>
-
-File manager with full create, read, update and delete, wrapped in a Streamlit UI.
-
-`Python` `Streamlit`
-
-[Code ↗](https://github.com/ishikajeevtani/fileforge-streamlit)
-
-</details>
-
-<details>
-<summary><b>🧩 DSA Journey</b></summary>
-<br>
-
-Data structures and algorithms practice in C++.
-
-`C++` `DSA`
-
-[Code ↗](https://github.com/ishikajeevtani/dsa-journey)
-
-</details>
-
-<details>
-<summary><b>⚙️ C++ Fundamentals</b></summary>
-<br>
-
-Core C++ concepts with practice programs.
-
-`C++`
-
-[Code ↗](https://github.com/ishikajeevtani/cpp-fundamentals)
-
-</details>
-
-<details>
-<summary><b>📒 Class Register</b></summary>
-<br>
-
-Python app for managing class records.
-
-`Python`
-
-[Code ↗](https://github.com/ishikajeevtani/class-register)
-
-</details>
-
-<details>
-<summary><b>🐍 Python Fundamentals</b></summary>
-<br>
-
-Python basics and practice programs.
-
-`Python`
-
-[Code ↗](https://github.com/ishikajeevtani/NYC-python)
-
-</details>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>VolunteerIQ</h3>
+      <p>AI-powered volunteer coordination platform.</p>
+      <img src="https://img.shields.io/badge/AI-7c3aed?style=flat-square&labelColor=1e1b4b"/> <img src="https://img.shields.io/badge/Web%20App-a78bfa?style=flat-square&labelColor=1e1b4b"/><br><br>
+      <a href="https://volunteeriq.vercel.app">Live demo ↗</a> · <a href="https://github.com/ishikajeevtani/volunteeriq">Code ↗</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>FileForge</h3>
+      <p>File manager with full create, read, update and delete, wrapped in a Streamlit UI.</p>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/><br><br>
+      <a href="https://github.com/ishikajeevtani/fileforge-streamlit">Code ↗</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>DSA Journey</h3>
+      <p>Data structures and algorithms practice in C++.</p>
+      <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/DSA-7c3aed?style=flat-square&labelColor=1e1b4b"/><br><br>
+      <a href="https://github.com/ishikajeevtani/dsa-journey">Code ↗</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>C++ Fundamentals</h3>
+      <p>Core C++ concepts with practice programs.</p>
+      <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/><br><br>
+      <a href="https://github.com/ishikajeevtani/cpp-fundamentals">Code ↗</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Class Register</h3>
+      <p>Python app for managing class records.</p>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/><br><br>
+      <a href="https://github.com/ishikajeevtani/class-register">Code ↗</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Python Fundamentals</h3>
+      <p>Python basics and practice programs.</p>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/><br><br>
+      <a href="https://github.com/ishikajeevtani/NYC-python">Code ↗</a>
+    </td>
+  </tr>
+</table>
 
 ## Toolbox
 
@@ -128,13 +66,14 @@ Python basics and practice programs.
   <img src="https://skillicons.dev/icons?i=python,cpp,java,git,github,vscode,idea&theme=dark"/>
 </p>
 
-<details>
-<summary><b>📊 GitHub stats</b></summary>
-<br>
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=ishikajeevtani&show_icons=true&theme=radical&hide_border=true"/>
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishikajeevtani&layout=compact&theme=radical&hide_border=true"/>
-</p>
-</details>
+## Contribution snake
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:302b63,100:0f0c29&height=100&section=footer" width="100%"/>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ishikajeevtani/ishikajeevtani/output/github-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ishikajeevtani/ishikajeevtani/output/github-snake.svg"/>
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/ishikajeevtani/ishikajeevtani/output/github-snake.svg"/>
+  </picture>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:a78bfa,40:6d28d9,70:302b63,100:0f0c29&height=100&section=footer" width="100%"/>
