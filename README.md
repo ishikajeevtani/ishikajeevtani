@@ -1,31 +1,34 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Ishika%20Jeevtani&fontColor=2dd4bf&fontSize=52&fontAlignY=42&desc=CS%20student%20%C2%B7%20building%20with%20code%20%26%20AI&descColor=cbd5e1&descAlignY=64&descSize=16" width="100%"/>
+<h3>👋 HELLO , I'M</h3>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1200&color=2DD4BF&center=true&vCenter=true&width=520&lines=Python+%C2%B7+C%2B%2B+%C2%B7+Java;AI-integrated+apps;Computer+vision+explorer)](https://git.io/typing-svg)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=46&duration=3500&pause=100000&color=FF2BD6&center=true&vCenter=true&width=760&height=75&repeat=false&lines=ISHIKA+JEEVTANI" alt="ISHIKA JEEVTANI"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2000&pause=700&color=00F5FF&center=true&vCenter=true&width=520&height=50&lines=PYTHON;C%2B%2B;ML;DSA;AND+A+LOT+MORE...;B.TECH+CSE" alt="PYTHON, C++, ML, DSA, AND A LOT MORE, B.TECH CSE"/>
 
 <br>
 
-<img src="https://img.shields.io/badge/B.Tech%20CSE-RJIT%20Gwalior-2dd4bf?style=for-the-badge&labelColor=0f2027"/>
-<img src="https://img.shields.io/badge/Focus-AI%20%26%20Computer%20Vision-38bdf8?style=for-the-badge&labelColor=0f2027"/>
+<img src="https://img.shields.io/badge/B.TECH%20CSE-00F5FF?style=for-the-badge&labelColor=0B1220&color=0B1220"/>
+<img src="https://img.shields.io/badge/ARTIFICIAL%20INTELLIGENCE-FF2BD6?style=for-the-badge&labelColor=0B1220&color=0B1220"/>
+<img src="https://img.shields.io/badge/COMPUTER%20VISION-00F5FF?style=for-the-badge&labelColor=0B1220&color=0B1220"/>
+<img src="https://img.shields.io/badge/MACHINE%20LEARNING-3B82F6?style=for-the-badge&labelColor=0B1220&color=0B1220"/>
+
+<br><br>
+
+<a href="https://www.linkedin.com/in/ishika-jeevtani"><img src="https://img.shields.io/badge/LinkedIn-Ishika%20Jeevtani-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:ishikajeevtani@gmail.com"><img src="https://img.shields.io/badge/Gmail-ishikajeevtani%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 </div>
 
-<br>
+---
 
-## ✨ About
+### 🧑‍💻 About Me
 
-I'm a second-year Computer Science student who loves turning ideas into working apps. I'm especially interested in AI and computer vision.
+I'm a second-year **B.Tech Computer Science** student at **RJIT, Gwalior**, with a strong interest in **AI, machine learning and computer vision**.
 
-<details>
-<summary><b>👀 A little more</b></summary>
-<br>
+My GitHub is where I build and document my projects and practice. I believe in strong fundamentals, consistent practice and clean, working code.
 
-- 🎓 B.Tech CSE at RJIT, Gwalior
-- 🤖 Into AI-integrated apps and computer vision
-- 🌱 Always learning something new
-
-</details>
+---
 
 ## 🚀 Projects
 
@@ -34,64 +37,94 @@ I'm a second-year Computer Science student who loves turning ideas into working 
     <td width="50%" valign="top">
       <h3>🤝 VolunteerIQ</h3>
       <p>AI-powered volunteer coordination platform.</p>
-      <img src="https://img.shields.io/badge/AI-2dd4bf?style=flat-square&labelColor=0f2027"/> <img src="https://img.shields.io/badge/Web%20App-38bdf8?style=flat-square&labelColor=0f2027"/><br><br>
-      <a href="https://volunteeriq.vercel.app">Live demo</a> · <a href="https://github.com/ishikajeevtani/volunteeriq">Code</a>
+      <img src="https://img.shields.io/badge/AI-FF2BD6?style=flat-square&labelColor=0B1220"/> <img src="https://img.shields.io/badge/WEB%20APP-00F5FF?style=flat-square&labelColor=0B1220"/><br><br>
+      <a href="https://volunteeriq.vercel.app"><b>Live demo</b></a> &nbsp;·&nbsp; <a href="https://github.com/ishikajeevtani/volunteeriq"><b>Code</b></a>
     </td>
     <td width="50%" valign="top">
       <h3>📁 FileForge</h3>
-      <p>File manager with full create, read, update and delete, wrapped in a Streamlit UI.</p>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/><br><br>
-      <a href="https://github.com/ishikajeevtani/fileforge-streamlit">Code</a>
+      <p>File manager with create, read, update and delete, wrapped in a Streamlit UI.</p>
+      <img src="https://img.shields.io/badge/PYTHON-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/STREAMLIT-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/><br><br>
+      <a href="https://lnkd.in/dg6xen2R"><b>Live app</b></a> &nbsp;·&nbsp; <a href="https://github.com/ishikajeevtani/fileforge-streamlit"><b>Code</b></a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>🧩 DSA Journey</h3>
       <p>Data structures and algorithms practice in C++.</p>
-      <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/><br><br>
-      <a href="https://github.com/ishikajeevtani/dsa-journey">Code</a>
+      <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/DSA-3B82F6?style=flat-square&labelColor=0B1220"/><br><br>
+      <a href="https://github.com/ishikajeevtani/dsa-journey"><b>Code</b></a>
     </td>
     <td width="50%" valign="top">
       <h3>⚙️ C++ Fundamentals</h3>
       <p>Core C++ concepts with practice programs.</p>
       <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/><br><br>
-      <a href="https://github.com/ishikajeevtani/cpp-fundamentals">Code</a>
+      <a href="https://github.com/ishikajeevtani/cpp-fundamentals"><b>Code</b></a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>📒 Class Register</h3>
       <p>Python app for managing class records.</p>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/><br><br>
-      <a href="https://github.com/ishikajeevtani/class-register">Code</a>
+      <img src="https://img.shields.io/badge/PYTHON-3776AB?style=flat-square&logo=python&logoColor=white"/><br><br>
+      <a href="https://lnkd.in/dtSBMhcj"><b>Live app</b></a> &nbsp;·&nbsp; <a href="https://github.com/ishikajeevtani/class-register"><b>Code</b></a>
     </td>
     <td width="50%" valign="top">
-      <h3>🗽 NYC-python <sub>(fork)</sub></h3>
-      <p>Python practice, forked from AkarshVyas/NYC-python.</p>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/><br><br>
-      <a href="https://github.com/ishikajeevtani/NYC-python">Code</a>
+      <h3>🐍 Python Fundamentals</h3>
+      <p>Python basics and practice programs.</p>
+      <img src="https://img.shields.io/badge/PYTHON-3776AB?style=flat-square&logo=python&logoColor=white"/><br><br>
+      <a href="https://github.com/ishikajeevtani/NYC-python"><b>Code</b></a>
     </td>
   </tr>
 </table>
 
-## 🧰 Toolbox
+---
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,git,github,vscode,idea&theme=dark"/>
+## 🛠️ Technologies & Tools
+
+<p>
+  <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/STREAMLIT-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20CODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/INTELLIJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
 </p>
 
-## 📊 Stats
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=ishikajeevtani&show_icons=true&theme=tokyonight&hide_border=true&title_color=2dd4bf&icon_color=2dd4bf"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishikajeevtani&layout=compact&theme=tokyonight&hide_border=true&title_color=2dd4bf"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ishikajeevtani&show_icons=true&hide_border=false&bg_color=0B1220&title_color=00F5FF&icon_color=FF2BD6&text_color=FFFFFF&border_color=00F5FF" alt="GitHub stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishikajeevtani&layout=compact&hide_border=false&bg_color=0B1220&title_color=00F5FF&text_color=FFFFFF&border_color=00F5FF" alt="Top languages"/>
 </p>
-
-## 📡 Let's connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ishika-jeevtani" title="Say hi on LinkedIn!"><img src="https://img.shields.io/badge/LinkedIn-Ishika%20Jeevtani-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:ishikajeevtani@gmail.com" title="Drop me a mail!"><img src="https://img.shields.io/badge/Email-Get%20in%20touch-2dd4bf?style=for-the-badge&logo=gmail&logoColor=0f2027"/></a>
+  <img src="https://streak-stats.demolab.com/?user=ishikajeevtani&background=0B1220&border=00F5FF&ring=FF2BD6&fire=FF2BD6&currStreakLabel=00F5FF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9CA3AF" alt="GitHub streak"/>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%"/>
+---
+
+## 🌱 Currently Learning
+
+<details>
+<summary><b>Click to see what I'm learning</b></summary>
+<br>
+
+- C++ and Data Structures & Algorithms
+- Python for Machine Learning
+- Computer Vision basics
+- Building AI-integrated apps
+
+</details>
+
+---
+
+## 📫 Let's Connect
+
+<p>
+  <a href="https://www.linkedin.com/in/ishika-jeevtani"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:ishikajeevtani@gmail.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
