@@ -1,62 +1,85 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/ishikajeevtani/ishikajeevtani/main/assets/header.svg" width="100%" alt="Ishika Jeevtani: PYTHON, C++, ML, DSA, AND A LOT MORE, B.TECH CSE"/>
+# ISHIKA JEEVTANI
 
-<br>
+### PYTHON &nbsp;·&nbsp; C++ &nbsp;·&nbsp; ML &nbsp;·&nbsp; DSA &nbsp;·&nbsp; AND A LOT MORE
 
-<a href="https://www.linkedin.com/in/ishika-jeevtani"><img src="https://raw.githubusercontent.com/ishikajeevtani/ishikajeevtani/main/assets/btn-linkedin.svg" width="150" alt="LinkedIn"/></a>
-&nbsp;
-<a href="mailto:ishikajeevtani@gmail.com"><img src="https://raw.githubusercontent.com/ishikajeevtani/ishikajeevtani/main/assets/btn-email.svg" width="150" alt="Email"/></a>
+**B.TECH CSE**
+
+[LinkedIn](https://www.linkedin.com/in/ishika-jeevtani) &nbsp;|&nbsp; [Email](mailto:ishikajeevtani@gmail.com)
+
+`▁ ▂ ▃ ▄ ▅ ▆ ▇ █ ▇ ▆ ▅ ▄ ▃ ▂ ▁`
 
 </div>
 
-<img src="https://raw.githubusercontent.com/ishikajeevtani/ishikajeevtani/main/assets/divider.svg" width="100%" alt=""/>
+<details>
+<summary><b>👩‍💻 About me</b> &nbsp;(click to open)</summary>
+<br>
 
-<h2 align="center">Projects</h2>
+Second-year Computer Science student who likes building small things that actually work, mostly around AI and computer vision.
+
+</details>
+
+## 🚀 Projects
 
 <table>
   <tr>
-    <td width="50%" align="center" valign="top">
-      <a href="https://github.com/ishikajeevtani/volunteeriq"><img src="https://raw.githubusercontent.com/ishikajeevtani/ishikajeevtani/main/assets/card-volunteeriq.svg" width="100%" alt="volunteeriq"/></a>
-      <br><a href="https://volunteeriq.vercel.app">Live demo</a> &nbsp;·&nbsp; <a href="https://github.com/ishikajeevtani/volunteeriq">Code</a>
+    <td width="50%" valign="top">
+      <h3>🤝 VolunteerIQ</h3>
+      <p>AI-powered volunteer coordination platform.</p>
+      <code>AI</code> <code>Web app</code><br><br>
+      <a href="https://volunteeriq.vercel.app"><b>Live demo</b></a> &nbsp;·&nbsp; <a href="https://github.com/ishikajeevtani/volunteeriq"><b>Code</b></a>
     </td>
-    <td width="50%" align="center" valign="top">
-      <a href="https://github.com/ishikajeevtani/fileforge-streamlit"><img src="https://raw.githubusercontent.com/ishikajeevtani/ishikajeevtani/main/assets/card-fileforge.svg" width="100%" alt="fileforge"/></a>
-      <br><a href="https://lnkd.in/dg6xen2R">Live app</a> &nbsp;·&nbsp; <a href="https://github.com/ishikajeevtani/fileforge-streamlit">Code</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <a href="https://github.com/ishikajeevtani/dsa-journey"><img src="https://raw.githubusercontent.com/ishikajeevtani/ishikajeevtani/main/assets/card-dsa-journey.svg" width="100%" alt="dsa-journey"/></a>
-      <br><a href="https://github.com/ishikajeevtani/dsa-journey">Code</a>
-    </td>
-    <td width="50%" align="center" valign="top">
-      <a href="https://github.com/ishikajeevtani/cpp-fundamentals"><img src="https://raw.githubusercontent.com/ishikajeevtani/ishikajeevtani/main/assets/card-cpp-fundamentals.svg" width="100%" alt="cpp-fundamentals"/></a>
-      <br><a href="https://github.com/ishikajeevtani/cpp-fundamentals">Code</a>
+    <td width="50%" valign="top">
+      <h3>📁 FileForge</h3>
+      <p>File manager with create, read, update and delete, wrapped in a Streamlit UI.</p>
+      <code>Python</code> <code>Streamlit</code><br><br>
+      <a href="https://lnkd.in/dg6xen2R"><b>Live app</b></a> &nbsp;·&nbsp; <a href="https://github.com/ishikajeevtani/fileforge-streamlit"><b>Code</b></a>
     </td>
   </tr>
   <tr>
-    <td width="50%" align="center" valign="top">
-      <a href="https://github.com/ishikajeevtani/class-register"><img src="https://raw.githubusercontent.com/ishikajeevtani/ishikajeevtani/main/assets/card-class-register.svg" width="100%" alt="class-register"/></a>
-      <br><a href="https://lnkd.in/dtSBMhcj">Live app</a> &nbsp;·&nbsp; <a href="https://github.com/ishikajeevtani/class-register">Code</a>
+    <td width="50%" valign="top">
+      <h3>🧩 DSA Journey</h3>
+      <p>Data structures and algorithms practice in C++.</p>
+      <code>C++</code> <code>DSA</code><br><br>
+      <a href="https://github.com/ishikajeevtani/dsa-journey"><b>Code</b></a>
     </td>
-    <td width="50%" align="center" valign="top">
-      <a href="https://github.com/ishikajeevtani/NYC-python"><img src="https://raw.githubusercontent.com/ishikajeevtani/ishikajeevtani/main/assets/card-python-fundamentals.svg" width="100%" alt="python-fundamentals"/></a>
-      <br><a href="https://github.com/ishikajeevtani/NYC-python">Code</a>
+    <td width="50%" valign="top">
+      <h3>⚙️ C++ Fundamentals</h3>
+      <p>Core C++ concepts with practice programs.</p>
+      <code>C++</code><br><br>
+      <a href="https://github.com/ishikajeevtani/cpp-fundamentals"><b>Code</b></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📒 Class Register</h3>
+      <p>Python app for managing class records.</p>
+      <code>Python</code><br><br>
+      <a href="https://lnkd.in/dtSBMhcj"><b>Live app</b></a> &nbsp;·&nbsp; <a href="https://github.com/ishikajeevtani/class-register"><b>Code</b></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🐍 Python Fundamentals</h3>
+      <p>Python basics and practice programs.</p>
+      <code>Python</code><br><br>
+      <a href="https://github.com/ishikajeevtani/NYC-python"><b>Code</b></a>
     </td>
   </tr>
 </table>
 
-<img src="https://raw.githubusercontent.com/ishikajeevtani/ishikajeevtani/main/assets/divider.svg" width="100%" alt=""/>
+<details>
+<summary><b>🧰 Toolbox</b> &nbsp;(click to open)</summary>
+<br>
 
-<h2 align="center">Contribution snake</h2>
+`Python` &nbsp; `C++` &nbsp; `Java` &nbsp; `Git` &nbsp; `GitHub` &nbsp; `VS Code` &nbsp; `IntelliJ IDEA`
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ishikajeevtani/ishikajeevtani/output/github-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ishikajeevtani/ishikajeevtani/output/github-snake.svg"/>
-    <img alt="Contribution snake" src="https://raw.githubusercontent.com/ishikajeevtani/ishikajeevtani/output/github-snake.svg"/>
-  </picture>
-</p>
+</details>
 
-<img src="https://raw.githubusercontent.com/ishikajeevtani/ishikajeevtani/main/assets/divider.svg" width="100%" alt=""/>
+<details>
+<summary><b>📡 Let's connect</b> &nbsp;(click to open)</summary>
+<br>
+
+- 💼 [LinkedIn: Ishika Jeevtani](https://www.linkedin.com/in/ishika-jeevtani)
+- ✉️ [ishikajeevtani@gmail.com](mailto:ishikajeevtani@gmail.com)
+
+</details>
