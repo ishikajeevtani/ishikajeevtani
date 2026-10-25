@@ -2,91 +2,114 @@
 
 <br>
 
-<h1>ISHIKA JEEVTANI</h1>
+```bash
+ishika@rjit:~$ whoami
+```
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=2000&pause=700&color=22C55E&center=true&vCenter=true&width=420&height=45&lines=Python;C%2B%2B;ML;DSA;and+a+lot+more...;B.Tech+CSE" alt="Python, C++, ML, DSA and a lot more, B.Tech CSE"/>
-
-<sub>RJIT · GWALIOR</sub>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2000&pause=700&color=22C55E&center=true&vCenter=true&width=440&height=50&lines=Ishika+Jeevtani;Python;C%2B%2B;ML;DSA;and+a+lot+more...;B.Tech+CSE" alt="Ishika Jeevtani, Python, C++, ML, DSA, and a lot more, B.Tech CSE"/>
 
 <br>
-
-<a href="https://www.linkedin.com/in/ishika-jeevtani"><img src="https://img.shields.io/badge/LinkedIn-22c55e?style=flat-square&logo=linkedin&logoColor=0b0f0c&labelColor=0b0f0c"/></a>
-<a href="mailto:ishikajeevtani@gmail.com"><img src="https://img.shields.io/badge/Email-22c55e?style=flat-square&logo=gmail&logoColor=0b0f0c&labelColor=0b0f0c"/></a>
 
 </div>
 
-<br>
+```bash
+ishika@rjit:~$ cat about.txt
 
----
+Second-year CS student at RJIT, Gwalior.
+I like building small things that actually work,
+mostly around AI and computer vision.
+```
 
-### about
+```bash
+ishika@rjit:~$ ls projects/
 
-Second-year CS student who likes building small things that actually work, mostly around AI and computer vision.
+volunteeriq/    fileforge/    dsa-journey/
+cpp-fundamentals/    class-register/    python-fundamentals/
 
----
-
-### selected work
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>01 · VolunteerIQ</h3>
-      <p>AI-powered volunteer coordination platform.</p>
-      <code>AI</code> <code>Web app</code><br><br>
-      <a href="https://volunteeriq.vercel.app">live ↗</a> &nbsp;·&nbsp; <a href="https://github.com/ishikajeevtani/volunteeriq">code ↗</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>02 · FileForge</h3>
-      <p>File manager with full create, read, update and delete, wrapped in a Streamlit UI.</p>
-      <code>Python</code> <code>Streamlit</code><br><br>
-      <a href="https://github.com/ishikajeevtani/fileforge-streamlit">code ↗</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>03 · DSA Journey</h3>
-      <p>Data structures and algorithms practice in C++.</p>
-      <code>C++</code><br><br>
-      <a href="https://github.com/ishikajeevtani/dsa-journey">code ↗</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>04 · C++ Fundamentals</h3>
-      <p>Core C++ concepts with practice programs.</p>
-      <code>C++</code><br><br>
-      <a href="https://github.com/ishikajeevtani/cpp-fundamentals">code ↗</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>05 · Class Register</h3>
-      <p>Python app for managing class records.</p>
-      <code>Python</code><br><br>
-      <a href="https://github.com/ishikajeevtani/class-register">code ↗</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>06 · Python Fundamentals</h3>
-      <p>Python basics and practice programs.</p>
-      <code>Python</code><br><br>
-      <a href="https://github.com/ishikajeevtani/NYC-python">code ↗</a>
-    </td>
-  </tr>
-</table>
-
----
-
-### stack
-
-<img src="https://img.shields.io/badge/Python-0b0f0c?style=flat-square&logo=python&logoColor=22c55e"/>
-<img src="https://img.shields.io/badge/C++-0b0f0c?style=flat-square&logo=cplusplus&logoColor=22c55e"/>
-<img src="https://img.shields.io/badge/Java-0b0f0c?style=flat-square&logo=openjdk&logoColor=22c55e"/>
-<img src="https://img.shields.io/badge/Git-0b0f0c?style=flat-square&logo=git&logoColor=22c55e"/>
-<img src="https://img.shields.io/badge/GitHub-0b0f0c?style=flat-square&logo=github&logoColor=22c55e"/>
-<img src="https://img.shields.io/badge/VS%20Code-0b0f0c?style=flat-square&logo=visualstudiocode&logoColor=22c55e"/>
-
----
+# click a folder below to open it ↓
+```
 
 <details>
-<summary><b>github stats</b></summary>
+<summary><code>▸ volunteeriq/</code></summary>
+
+```text
+AI-powered volunteer coordination platform
+tags: AI, web app
+```
+
+[live ↗](https://volunteeriq.vercel.app) · [code ↗](https://github.com/ishikajeevtani/volunteeriq)
+
+</details>
+
+<details>
+<summary><code>▸ fileforge/</code></summary>
+
+```text
+File manager with full create, read, update and delete,
+wrapped in a Streamlit UI
+tags: Python, Streamlit
+```
+
+[code ↗](https://github.com/ishikajeevtani/fileforge-streamlit)
+
+</details>
+
+<details>
+<summary><code>▸ dsa-journey/</code></summary>
+
+```text
+Data structures and algorithms practice in C++
+tags: C++, DSA
+```
+
+[code ↗](https://github.com/ishikajeevtani/dsa-journey)
+
+</details>
+
+<details>
+<summary><code>▸ cpp-fundamentals/</code></summary>
+
+```text
+Core C++ concepts with practice programs
+tags: C++
+```
+
+[code ↗](https://github.com/ishikajeevtani/cpp-fundamentals)
+
+</details>
+
+<details>
+<summary><code>▸ class-register/</code></summary>
+
+```text
+Python app for managing class records
+tags: Python
+```
+
+[code ↗](https://github.com/ishikajeevtani/class-register)
+
+</details>
+
+<details>
+<summary><code>▸ python-fundamentals/</code></summary>
+
+```text
+Python basics and practice programs
+tags: Python
+```
+
+[code ↗](https://github.com/ishikajeevtani/NYC-python)
+
+</details>
+
+```bash
+ishika@rjit:~$ cat stack.txt
+
+python  ·  c++  ·  java  ·  git  ·  github  ·  vs code
+```
+
+<details>
+<summary><code>▸ run github --stats</code></summary>
 <br>
 <p align="center">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=ishikajeevtani&show_icons=true&theme=dark&hide_border=true&bg_color=0b0f0c&title_color=22c55e&icon_color=22c55e&text_color=c9d1d9"/>
@@ -94,8 +117,15 @@ Second-year CS student who likes building small things that actually work, mostl
 </p>
 </details>
 
-<br>
+```bash
+ishika@rjit:~$ contact --list
+```
 
-<div align="center">
-<sub>open to collaborations · say hi ↑</sub>
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/ishika-jeevtani"><img src="https://img.shields.io/badge/LinkedIn-0b0f0c?style=for-the-badge&logo=linkedin&logoColor=22c55e&color=0b0f0c&labelColor=0b0f0c&label=%3E"/></a>
+  <a href="mailto:ishikajeevtani@gmail.com"><img src="https://img.shields.io/badge/Email-0b0f0c?style=for-the-badge&logo=gmail&logoColor=22c55e&color=0b0f0c&labelColor=0b0f0c&label=%3E"/></a>
+</p>
+
+```bash
+ishika@rjit:~$ _
+```
