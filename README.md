@@ -22,7 +22,7 @@
     </td>
     <td width="50%" align="center" valign="top">
       <a href="https://github.com/ishikajeevtani/fileforge-streamlit"><img src="https://raw.githubusercontent.com/ishikajeevtani/ishikajeevtani/main/assets/card-fileforge.svg" width="100%" alt="fileforge"/></a>
-      <br><a href="https://github.com/ishikajeevtani/fileforge-streamlit">Code</a>
+      <br><a href="https://lnkd.in/dg6xen2R">Live app</a> &nbsp;·&nbsp; <a href="https://github.com/ishikajeevtani/fileforge-streamlit">Code</a>
     </td>
   </tr>
   <tr>
@@ -38,7 +38,7 @@
   <tr>
     <td width="50%" align="center" valign="top">
       <a href="https://github.com/ishikajeevtani/class-register"><img src="https://raw.githubusercontent.com/ishikajeevtani/ishikajeevtani/main/assets/card-class-register.svg" width="100%" alt="class-register"/></a>
-      <br><a href="https://github.com/ishikajeevtani/class-register">Code</a>
+      <br><a href="https://lnkd.in/dtSBMhcj">Live app</a> &nbsp;·&nbsp; <a href="https://github.com/ishikajeevtani/class-register">Code</a>
     </td>
     <td width="50%" align="center" valign="top">
       <a href="https://github.com/ishikajeevtani/NYC-python"><img src="https://raw.githubusercontent.com/ishikajeevtani/ishikajeevtani/main/assets/card-python-fundamentals.svg" width="100%" alt="python-fundamentals"/></a>
